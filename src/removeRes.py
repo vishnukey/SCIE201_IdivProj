@@ -2,7 +2,7 @@
 
 import json
 
-with open("../data/censusPretty_withoutGeom.geojson", "r") as f:
+with open("../data/censusPretty_withoutGeom.json", "r") as f:
     data = json.load(f)
     size = len(data["features"])
     i = 0
