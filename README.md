@@ -1,11 +1,14 @@
 # What I have done
 - downloaded data from ["https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON"](https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON)
-- prettified using 
+- prettified using
         ```
         $ cat Census\ By\ Community\ 2016.geojson | python -m json.tool > censusPretty.geojson
         ```
-- used regex pattern in Atom to remove geo data (TODO: write in regex pattern)
-- ran python script to remove all non-residential entries 
+- used regex pattern in Atom to remove geo data
+        ```
+        /,\s+"geometry": {\s+"type": "Polygon",\s+"coordinates": [\]|[|\s|0-9|.|,|\s|-]+}/
+        ```
+- ran python script to remove all non-residential entries
 - ran python script to extract only the necessary data
 - ran python script geocode community names using google maps api
 - built php server to generate map and serve data to map
