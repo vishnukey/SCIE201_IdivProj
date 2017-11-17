@@ -10,8 +10,8 @@
 - ran python script geocode community names using google maps api
 - built php server to generate map and serve data to map
 - generated map
+- used R to generate pie chart for gender distribution
+- used R to generate pie chart for age distribution
 
 # What I need to do
-- make pie chart: fem vs male
-- make pie chart: age distribution
 - write up doc
