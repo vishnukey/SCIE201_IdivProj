@@ -1,5 +1,5 @@
 # What I have done
-- downloaded data from a(src="https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON")https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON
+- downloaded data from ["https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON"](https://data.calgary.ca/api/geospatial/cje4-zd6c?method=export&format=GeoJSON)
 - prettified using 
         ```
         $ cat Census\ By\ Community\ 2016.geojson | python -m json.tool > censusPretty.geojson
