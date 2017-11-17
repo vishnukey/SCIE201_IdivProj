@@ -7,10 +7,9 @@
 - used regex pattern in Atom to remove geo data (TODO: write in regex pattern)
 - ran python script to remove all non-residential entries 
 - ran python script to extract only the necessary data
+- ran python script geocode community names using google maps api
 
 # What I need to do
-- get maps API ket
-- geocode each community
 - make map
 - make pie chart: fem vs male
 - make pie chart: age distribution

@@ -17,7 +17,11 @@
             "total_fem": 501,
             "total_5_14": 692,
             "total_15_19": 375,
-            "total": 1067
+            "total": 1067,
+            "location": {
+                "lat": 50.911473,
+                "lng": -114.0504261
+            }
         },
         {
             "name": "COUNTRY HILLS VILLAGE",
@@ -29,7 +33,11 @@
             "total_fem": 117,
             "total_5_14": 171,
             "total_15_19": 64,
-            "total": 235
+            "total": 235,
+            "location": {
+                "lat": 51.1580756,
+                "lng": -114.0618719
+            }
         },
         {
             "name": "FAIRVIEW",
@@ -41,7 +49,11 @@
             "total_fem": 285,
             "total_5_14": 365,
             "total_15_19": 177,
-            "total": 542
+            "total": 542,
+            "location": {
+                "lat": 50.9857118,
+                "lng": -114.0648637
+            }
         },
         {
             "name": "BEL-AIRE",
@@ -53,7 +65,11 @@
             "total_fem": 46,
             "total_5_14": 42,
             "total_15_19": 40,
-            "total": 82
+            "total": 82,
+            "location": {
+                "lat": 50.99904739999999,
+                "lng": -114.0892809
+            }
         },
         {
             "name": "PATTERSON",
@@ -65,7 +81,11 @@
             "total_fem": 283,
             "total_5_14": 378,
             "total_15_19": 195,
-            "total": 573
+            "total": 573,
+            "location": {
+                "lat": 51.062963,
+                "lng": -114.174517
+            }
         },
         {
             "name": "SOUTH CALGARY",
@@ -77,7 +97,11 @@
             "total_fem": 161,
             "total_5_14": 249,
             "total_15_19": 77,
-            "total": 326
+            "total": 326,
+            "location": {
+                "lat": 51.027223,
+                "lng": -114.1028042
+            }
         },
         {
             "name": "RIDEAU PARK",
@@ -89,7 +113,11 @@
             "total_fem": 36,
             "total_5_14": 46,
             "total_15_19": 26,
-            "total": 72
+            "total": 72,
+            "location": {
+                "lat": 51.0260131,
+                "lng": -114.0671845
+            }
         },
         {
             "name": "SIGNAL HILL",
@@ -101,7 +129,11 @@
             "total_fem": 1213,
             "total_5_14": 1485,
             "total_15_19": 1031,
-            "total": 2516
+            "total": 2516,
+            "location": {
+                "lat": 51.0218027,
+                "lng": -114.1780703
+            }
         },
         {
             "name": "CAMBRIAN HEIGHTS",
@@ -113,7 +145,11 @@
             "total_fem": 155,
             "total_5_14": 199,
             "total_15_19": 106,
-            "total": 305
+            "total": 305,
+            "location": {
+                "lat": 51.0841635,
+                "lng": -114.089091
+            }
         },
         {
             "name": "BRITANNIA",
@@ -125,7 +161,11 @@
             "total_fem": 67,
             "total_5_14": 89,
             "total_15_19": 48,
-            "total": 137
+            "total": 137,
+            "location": {
+                "lat": 51.0157547,
+                "lng": -114.085636
+            }
         },
         {
             "name": "CRESTMONT",
@@ -137,7 +177,11 @@
             "total_fem": 191,
             "total_5_14": 293,
             "total_15_19": 86,
-            "total": 379
+            "total": 379,
+            "location": {
+                "lat": 51.0844759,
+                "lng": -114.264779
+            }
         },
         {
             "name": "WEST HILLHURST",
@@ -149,7 +193,11 @@
             "total_fem": 417,
             "total_5_14": 655,
             "total_15_19": 249,
-            "total": 904
+            "total": 904,
+            "location": {
+                "lat": 51.0519156,
+                "lng": -114.116492
+            }
         },
         {
             "name": "ROSSCARROCK",
@@ -161,7 +209,11 @@
             "total_fem": 253,
             "total_5_14": 413,
             "total_15_19": 119,
-            "total": 532
+            "total": 532,
+            "location": {
+                "lat": 51.0415418,
+                "lng": -114.1448913
+            }
         },
         {
             "name": "KILLARNEY/GLENGARRY",
@@ -173,7 +225,11 @@
             "total_fem": 421,
             "total_5_14": 597,
             "total_15_19": 243,
-            "total": 840
+            "total": 840,
+            "location": {
+                "lat": 51.03157179999999,
+                "lng": -114.1335238
+            }
         },
         {
             "name": "CANYON MEADOWS",
@@ -185,7 +241,11 @@
             "total_fem": 570,
             "total_5_14": 706,
             "total_15_19": 440,
-            "total": 1146
+            "total": 1146,
+            "location": {
+                "lat": 50.94372509999999,
+                "lng": -114.0798611
+            }
         },
         {
             "name": "HAMPTONS",
@@ -197,7 +257,11 @@
             "total_fem": 684,
             "total_5_14": 761,
             "total_15_19": 688,
-            "total": 1449
+            "total": 1449,
+            "location": {
+                "lat": 51.1447887,
+                "lng": -114.1480399
+            }
         },
         {
             "name": "CITYSCAPE",
@@ -209,7 +273,11 @@
             "total_fem": 168,
             "total_5_14": 265,
             "total_15_19": 81,
-            "total": 346
+            "total": 346,
+            "location": {
+                "lat": 51.1489981,
+                "lng": -113.9674404
+            }
         },
         {
             "name": "MAPLE RIDGE",
@@ -221,7 +289,11 @@
             "total_fem": 135,
             "total_5_14": 195,
             "total_15_19": 89,
-            "total": 284
+            "total": 284,
+            "location": {
+                "lat": 50.9572952,
+                "lng": -114.0367162
+            }
         },
         {
             "name": "AUBURN BAY",
@@ -233,7 +305,11 @@
             "total_fem": 1439,
             "total_5_14": 2387,
             "total_15_19": 601,
-            "total": 2988
+            "total": 2988,
+            "location": {
+                "lat": 50.8905626,
+                "lng": -113.9641873
+            }
         },
         {
             "name": "CHAPARRAL",
@@ -245,7 +321,11 @@
             "total_fem": 1666,
             "total_5_14": 2485,
             "total_15_19": 1065,
-            "total": 3550
+            "total": 3550,
+            "location": {
+                "lat": 50.8868258,
+                "lng": -114.0368292
+            }
         },
         {
             "name": "BRENTWOOD",
@@ -257,7 +337,11 @@
             "total_fem": 458,
             "total_5_14": 593,
             "total_15_19": 348,
-            "total": 941
+            "total": 941,
+            "location": {
+                "lat": 51.0983362,
+                "lng": -114.1322484
+            }
         },
         {
             "name": "SCARBORO",
@@ -269,7 +353,11 @@
             "total_fem": 88,
             "total_5_14": 140,
             "total_15_19": 55,
-            "total": 195
+            "total": 195,
+            "location": {
+                "lat": 51.0403154,
+                "lng": -114.1125582
+            }
         },
         {
             "name": "MEDICINE HILL",
@@ -281,7 +369,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 51.1577937,
+                "lng": -114.161777
+            }
         },
         {
             "name": "HIGHLAND PARK",
@@ -293,7 +385,11 @@
             "total_fem": 193,
             "total_5_14": 262,
             "total_15_19": 149,
-            "total": 411
+            "total": 411,
+            "location": {
+                "lat": 51.0912437,
+                "lng": -114.0632825
+            }
         },
         {
             "name": "BELTLINE",
@@ -305,7 +401,11 @@
             "total_fem": 380,
             "total_5_14": 413,
             "total_15_19": 326,
-            "total": 739
+            "total": 739,
+            "location": {
+                "lat": 51.0413217,
+                "lng": -114.0889692
+            }
         },
         {
             "name": "HUNTINGTON HILLS",
@@ -317,7 +417,11 @@
             "total_fem": 976,
             "total_5_14": 1380,
             "total_15_19": 663,
-            "total": 2043
+            "total": 2043,
+            "location": {
+                "lat": 51.1175928,
+                "lng": -114.069518
+            }
         },
         {
             "name": "GREENVIEW",
@@ -329,7 +433,11 @@
             "total_fem": 93,
             "total_5_14": 101,
             "total_15_19": 57,
-            "total": 158
+            "total": 158,
+            "location": {
+                "lat": 51.1033428,
+                "lng": -114.0568954
+            }
         },
         {
             "name": "DOWNTOWN COMMERCIAL CORE",
@@ -341,7 +449,11 @@
             "total_fem": 219,
             "total_5_14": 319,
             "total_15_19": 131,
-            "total": 450
+            "total": 450,
+            "location": {
+                "lat": 51.045956,
+                "lng": -114.069129
+            }
         },
         {
             "name": "MOUNT PLEASANT",
@@ -353,7 +465,11 @@
             "total_fem": 298,
             "total_5_14": 473,
             "total_15_19": 141,
-            "total": 614
+            "total": 614,
+            "location": {
+                "lat": 51.0732674,
+                "lng": -114.0758363
+            }
         },
         {
             "name": "SCARBORO/ SUNALTA WEST",
@@ -365,7 +481,11 @@
             "total_fem": 33,
             "total_5_14": 50,
             "total_15_19": 21,
-            "total": 71
+            "total": 71,
+            "location": {
+                "lat": 51.0404255,
+                "lng": -114.1012111
+            }
         },
         {
             "name": "CHARLESWOOD",
@@ -377,7 +497,11 @@
             "total_fem": 251,
             "total_5_14": 368,
             "total_15_19": 173,
-            "total": 541
+            "total": 541,
+            "location": {
+                "lat": 51.0868609,
+                "lng": -114.1150376
+            }
         },
         {
             "name": "CEDARBRAE",
@@ -389,7 +513,11 @@
             "total_fem": 464,
             "total_5_14": 677,
             "total_15_19": 270,
-            "total": 947
+            "total": 947,
+            "location": {
+                "lat": 50.9556677,
+                "lng": -114.1263465
+            }
         },
         {
             "name": "GREENWOOD/GREENBRIAR",
@@ -401,7 +529,11 @@
             "total_fem": 62,
             "total_5_14": 56,
             "total_15_19": 61,
-            "total": 117
+            "total": 117,
+            "location": {
+                "lat": 51.0903565,
+                "lng": -114.225466
+            }
         },
         {
             "name": "TUSCANY",
@@ -413,7 +545,11 @@
             "total_fem": 2588,
             "total_5_14": 3994,
             "total_15_19": 1221,
-            "total": 5215
+            "total": 5215,
+            "location": {
+                "lat": 51.1235364,
+                "lng": -114.2448431
+            }
         },
         {
             "name": "PUMP HILL",
@@ -425,7 +561,11 @@
             "total_fem": 98,
             "total_5_14": 136,
             "total_15_19": 69,
-            "total": 205
+            "total": 205,
+            "location": {
+                "lat": 50.9683241,
+                "lng": -114.1001195
+            }
         },
         {
             "name": "COUGAR RIDGE",
@@ -437,7 +577,11 @@
             "total_fem": 874,
             "total_5_14": 1375,
             "total_15_19": 421,
-            "total": 1796
+            "total": 1796,
+            "location": {
+                "lat": 51.073165,
+                "lng": -114.219442
+            }
         },
         {
             "name": "SILVER SPRINGS",
@@ -449,7 +593,11 @@
             "total_fem": 678,
             "total_5_14": 937,
             "total_15_19": 501,
-            "total": 1438
+            "total": 1438,
+            "location": {
+                "lat": 51.1070116,
+                "lng": -114.1938355
+            }
         },
         {
             "name": "HILLHURST",
@@ -461,7 +609,11 @@
             "total_fem": 556,
             "total_5_14": 511,
             "total_15_19": 541,
-            "total": 1052
+            "total": 1052,
+            "location": {
+                "lat": 51.05679079999999,
+                "lng": -114.0942044
+            }
         },
         {
             "name": "GLENDALE",
@@ -473,7 +625,11 @@
             "total_fem": 223,
             "total_5_14": 320,
             "total_15_19": 160,
-            "total": 480
+            "total": 480,
+            "location": {
+                "lat": 51.0344883,
+                "lng": -114.1518023
+            }
         },
         {
             "name": "WOODBINE",
@@ -485,7 +641,11 @@
             "total_fem": 728,
             "total_5_14": 1001,
             "total_15_19": 524,
-            "total": 1525
+            "total": 1525,
+            "location": {
+                "lat": 50.9386032,
+                "lng": -114.1285137
+            }
         },
         {
             "name": "DOWNTOWN WEST END",
@@ -497,7 +657,11 @@
             "total_fem": 51,
             "total_5_14": 78,
             "total_15_19": 30,
-            "total": 108
+            "total": 108,
+            "location": {
+                "lat": 51.0463743,
+                "lng": -114.0880201
+            }
         },
         {
             "name": "MCKENZIE TOWNE",
@@ -509,7 +673,11 @@
             "total_fem": 1611,
             "total_5_14": 2522,
             "total_15_19": 775,
-            "total": 3297
+            "total": 3297,
+            "location": {
+                "lat": 50.9185282,
+                "lng": -113.9667355
+            }
         },
         {
             "name": "HIDDEN VALLEY",
@@ -521,7 +689,11 @@
             "total_fem": 1333,
             "total_5_14": 1770,
             "total_15_19": 1043,
-            "total": 2813
+            "total": 2813,
+            "location": {
+                "lat": 51.1513095,
+                "lng": -114.1182466
+            }
         },
         {
             "name": "TARADALE",
@@ -533,7 +705,11 @@
             "total_fem": 2109,
             "total_5_14": 3215,
             "total_15_19": 1266,
-            "total": 4481
+            "total": 4481,
+            "location": {
+                "lat": 51.11875509999999,
+                "lng": -113.9368393
+            }
         },
         {
             "name": "RUNDLE",
@@ -545,7 +721,11 @@
             "total_fem": 1123,
             "total_5_14": 1509,
             "total_15_19": 785,
-            "total": 2294
+            "total": 2294,
+            "location": {
+                "lat": 51.07346399999999,
+                "lng": -113.9668929
+            }
         },
         {
             "name": "BRIDLEWOOD",
@@ -557,7 +737,11 @@
             "total_fem": 1434,
             "total_5_14": 2139,
             "total_15_19": 760,
-            "total": 2899
+            "total": 2899,
+            "location": {
+                "lat": 50.8985261,
+                "lng": -114.1096197
+            }
         },
         {
             "name": "UNIVERSITY HEIGHTS",
@@ -569,7 +753,11 @@
             "total_fem": 154,
             "total_5_14": 191,
             "total_15_19": 108,
-            "total": 299
+            "total": 299,
+            "location": {
+                "lat": 51.0703057,
+                "lng": -114.1400334
+            }
         },
         {
             "name": "SUNNYSIDE",
@@ -581,7 +769,11 @@
             "total_fem": 126,
             "total_5_14": 173,
             "total_15_19": 73,
-            "total": 246
+            "total": 246,
+            "location": {
+                "lat": 51.0561702,
+                "lng": -114.0780372
+            }
         },
         {
             "name": "CAPITOL HILL",
@@ -593,7 +785,11 @@
             "total_fem": 217,
             "total_5_14": 328,
             "total_15_19": 107,
-            "total": 435
+            "total": 435,
+            "location": {
+                "lat": 51.0722635,
+                "lng": -114.0994432
+            }
         },
         {
             "name": "BANKVIEW",
@@ -605,7 +801,11 @@
             "total_fem": 126,
             "total_5_14": 186,
             "total_15_19": 70,
-            "total": 256
+            "total": 256,
+            "location": {
+                "lat": 51.03420759999999,
+                "lng": -114.1025119
+            }
         },
         {
             "name": "CLIFF BUNGALOW",
@@ -617,7 +817,11 @@
             "total_fem": 25,
             "total_5_14": 33,
             "total_15_19": 25,
-            "total": 58
+            "total": 58,
+            "location": {
+                "lat": 51.0329351,
+                "lng": -114.0735082
+            }
         },
         {
             "name": "RIVERBEND",
@@ -629,7 +833,11 @@
             "total_fem": 728,
             "total_5_14": 846,
             "total_15_19": 669,
-            "total": 1515
+            "total": 1515,
+            "location": {
+                "lat": 50.97373280000001,
+                "lng": -114.0183839
+            }
         },
         {
             "name": "CHINATOWN",
@@ -641,7 +849,11 @@
             "total_fem": 42,
             "total_5_14": 38,
             "total_15_19": 36,
-            "total": 74
+            "total": 74,
+            "location": {
+                "lat": 51.0494357,
+                "lng": -114.0615052
+            }
         },
         {
             "name": "TEMPLE",
@@ -653,7 +865,11 @@
             "total_fem": 1041,
             "total_5_14": 1471,
             "total_15_19": 689,
-            "total": 2160
+            "total": 2160,
+            "location": {
+                "lat": 51.1407089,
+                "lng": -114.2334496
+            }
         },
         {
             "name": "BRAESIDE",
@@ -665,7 +881,11 @@
             "total_fem": 424,
             "total_5_14": 572,
             "total_15_19": 275,
-            "total": 847
+            "total": 847,
+            "location": {
+                "lat": 50.9543064,
+                "lng": -114.1073117
+            }
         },
         {
             "name": "CITADEL",
@@ -677,7 +897,11 @@
             "total_fem": 1103,
             "total_5_14": 1504,
             "total_15_19": 819,
-            "total": 2323
+            "total": 2323,
+            "location": {
+                "lat": 51.1474944,
+                "lng": -114.1863178
+            }
         },
         {
             "name": "MONTGOMERY",
@@ -689,7 +913,11 @@
             "total_fem": 218,
             "total_5_14": 314,
             "total_15_19": 123,
-            "total": 437
+            "total": 437,
+            "location": {
+                "lat": 51.074714,
+                "lng": -114.1641658
+            }
         },
         {
             "name": "HARVEST HILLS",
@@ -701,7 +929,11 @@
             "total_fem": 703,
             "total_5_14": 924,
             "total_15_19": 589,
-            "total": 1513
+            "total": 1513,
+            "location": {
+                "lat": 51.14882679999999,
+                "lng": -114.0534198
+            }
         },
         {
             "name": "OGDEN",
@@ -713,7 +945,11 @@
             "total_fem": 546,
             "total_5_14": 877,
             "total_15_19": 330,
-            "total": 1207
+            "total": 1207,
+            "location": {
+                "lat": 50.9850535,
+                "lng": -114.0157642
+            }
         },
         {
             "name": "KELVIN GROVE",
@@ -725,7 +961,11 @@
             "total_fem": 161,
             "total_5_14": 221,
             "total_15_19": 96,
-            "total": 317
+            "total": 317,
+            "location": {
+                "lat": 50.990135,
+                "lng": -114.088921
+            }
         },
         {
             "name": "PENBROOKE MEADOWS",
@@ -737,7 +977,11 @@
             "total_fem": 679,
             "total_5_14": 1027,
             "total_15_19": 427,
-            "total": 1454
+            "total": 1454,
+            "location": {
+                "lat": 51.0441168,
+                "lng": -113.9491122
+            }
         },
         {
             "name": "POINT MCKAY",
@@ -749,7 +993,11 @@
             "total_fem": 28,
             "total_5_14": 39,
             "total_15_19": 21,
-            "total": 60
+            "total": 60,
+            "location": {
+                "lat": 51.0601281,
+                "lng": -114.1485512
+            }
         },
         {
             "name": "RUTLAND PARK",
@@ -761,7 +1009,11 @@
             "total_fem": 175,
             "total_5_14": 239,
             "total_15_19": 114,
-            "total": 353
+            "total": 353,
+            "location": {
+                "lat": 51.0214688,
+                "lng": -114.1354095
+            }
         },
         {
             "name": "WALDEN",
@@ -773,7 +1025,11 @@
             "total_fem": 340,
             "total_5_14": 503,
             "total_15_19": 185,
-            "total": 688
+            "total": 688,
+            "location": {
+                "lat": 50.8744461,
+                "lng": -114.0366305
+            }
         },
         {
             "name": "RAMSAY",
@@ -785,7 +1041,11 @@
             "total_fem": 104,
             "total_5_14": 135,
             "total_15_19": 63,
-            "total": 198
+            "total": 198,
+            "location": {
+                "lat": 51.0363305,
+                "lng": -114.0421038
+            }
         },
         {
             "name": "MARLBOROUGH",
@@ -797,7 +1057,11 @@
             "total_fem": 613,
             "total_5_14": 925,
             "total_15_19": 408,
-            "total": 1333
+            "total": 1333,
+            "location": {
+                "lat": 51.0609899,
+                "lng": -113.9733443
+            }
         },
         {
             "name": "WEST SPRINGS",
@@ -809,7 +1073,11 @@
             "total_fem": 1310,
             "total_5_14": 2147,
             "total_15_19": 587,
-            "total": 2734
+            "total": 2734,
+            "location": {
+                "lat": 51.0619445,
+                "lng": -114.1970944
+            }
         },
         {
             "name": "MANCHESTER",
@@ -821,7 +1089,11 @@
             "total_fem": 29,
             "total_5_14": 54,
             "total_15_19": 49,
-            "total": 103
+            "total": 103,
+            "location": {
+                "lat": 51.0091445,
+                "lng": -114.0462227
+            }
         },
         {
             "name": "GARRISON GREEN",
@@ -833,7 +1105,11 @@
             "total_fem": 152,
             "total_5_14": 248,
             "total_15_19": 49,
-            "total": 297
+            "total": 297,
+            "location": {
+                "lat": 51.0052541,
+                "lng": -114.1274972
+            }
         },
         {
             "name": "MACEWAN GLEN",
@@ -845,7 +1121,11 @@
             "total_fem": 436,
             "total_5_14": 607,
             "total_15_19": 326,
-            "total": 933
+            "total": 933,
+            "location": {
+                "lat": 51.1404387,
+                "lng": -114.117225
+            }
         },
         {
             "name": "DEER RIDGE",
@@ -857,7 +1137,11 @@
             "total_fem": 378,
             "total_5_14": 539,
             "total_15_19": 259,
-            "total": 798
+            "total": 798,
+            "location": {
+                "lat": 50.9280176,
+                "lng": -114.0189178
+            }
         },
         {
             "name": "MONTEREY PARK",
@@ -869,7 +1153,11 @@
             "total_fem": 967,
             "total_5_14": 1253,
             "total_15_19": 748,
-            "total": 2001
+            "total": 2001,
+            "location": {
+                "lat": 51.0815903,
+                "lng": -113.9291389
+            }
         },
         {
             "name": "DISCOVERY RIDGE",
@@ -881,7 +1169,11 @@
             "total_fem": 495,
             "total_5_14": 691,
             "total_15_19": 362,
-            "total": 1053
+            "total": 1053,
+            "location": {
+                "lat": 51.013647,
+                "lng": -114.2151863
+            }
         },
         {
             "name": "SOUTHVIEW",
@@ -893,7 +1185,11 @@
             "total_fem": 90,
             "total_5_14": 132,
             "total_15_19": 62,
-            "total": 194
+            "total": 194,
+            "location": {
+                "lat": 51.0344328,
+                "lng": -113.993658
+            }
         },
         {
             "name": "CURRIE BARRACKS",
@@ -905,7 +1201,11 @@
             "total_fem": 69,
             "total_5_14": 99,
             "total_15_19": 30,
-            "total": 129
+            "total": 129,
+            "location": {
+                "lat": 51.0184836,
+                "lng": -114.1237628
+            }
         },
         {
             "name": "LOWER MOUNT ROYAL",
@@ -917,7 +1217,11 @@
             "total_fem": 50,
             "total_5_14": 58,
             "total_15_19": 44,
-            "total": 102
+            "total": 102,
+            "location": {
+                "lat": 51.0363331,
+                "lng": -114.0832946
+            }
         },
         {
             "name": "DEER RUN",
@@ -929,7 +1233,11 @@
             "total_fem": 381,
             "total_5_14": 519,
             "total_15_19": 274,
-            "total": 793
+            "total": 793,
+            "location": {
+                "lat": 50.918052,
+                "lng": -114.008348
+            }
         },
         {
             "name": "BAYVIEW",
@@ -941,7 +1249,11 @@
             "total_fem": 65,
             "total_5_14": 91,
             "total_15_19": 41,
-            "total": 132
+            "total": 132,
+            "location": {
+                "lat": 50.9747992,
+                "lng": -114.1116029
+            }
         },
         {
             "name": "WILDWOOD",
@@ -953,7 +1265,11 @@
             "total_fem": 226,
             "total_5_14": 322,
             "total_15_19": 133,
-            "total": 455
+            "total": 455,
+            "location": {
+                "lat": 51.0538866,
+                "lng": -114.1517508
+            }
         },
         {
             "name": "MILLRISE",
@@ -965,7 +1281,11 @@
             "total_fem": 582,
             "total_5_14": 767,
             "total_15_19": 397,
-            "total": 1164
+            "total": 1164,
+            "location": {
+                "lat": 50.91658,
+                "lng": -114.0839377
+            }
         },
         {
             "name": "RENFREW",
@@ -977,7 +1297,11 @@
             "total_fem": 345,
             "total_5_14": 494,
             "total_15_19": 168,
-            "total": 662
+            "total": 662,
+            "location": {
+                "lat": 51.0635286,
+                "lng": -114.0379773
+            }
         },
         {
             "name": "NORTH HAVEN UPPER",
@@ -989,7 +1313,11 @@
             "total_fem": 45,
             "total_5_14": 54,
             "total_15_19": 31,
-            "total": 85
+            "total": 85,
+            "location": {
+                "lat": 51.102778,
+                "lng": -114.083333
+            }
         },
         {
             "name": "INGLEWOOD",
@@ -1001,7 +1329,11 @@
             "total_fem": 142,
             "total_5_14": 212,
             "total_15_19": 83,
-            "total": 295
+            "total": 295,
+            "location": {
+                "lat": 51.034201,
+                "lng": -114.020136
+            }
         },
         {
             "name": "EAGLE RIDGE",
@@ -1013,7 +1345,11 @@
             "total_fem": 24,
             "total_5_14": 25,
             "total_15_19": 22,
-            "total": 47
+            "total": 47,
+            "location": {
+                "lat": 50.9853967,
+                "lng": -114.0979371
+            }
         },
         {
             "name": "DOWNTOWN EAST VILLAGE",
@@ -1025,7 +1361,11 @@
             "total_fem": 39,
             "total_5_14": 24,
             "total_15_19": 107,
-            "total": 131
+            "total": 131,
+            "location": {
+                "lat": 51.0463759,
+                "lng": -114.0505705
+            }
         },
         {
             "name": "LINCOLN PARK",
@@ -1037,7 +1377,11 @@
             "total_fem": 337,
             "total_5_14": 133,
             "total_15_19": 413,
-            "total": 546
+            "total": 546,
+            "location": {
+                "lat": 51.0098753,
+                "lng": -114.1314717
+            }
         },
         {
             "name": "STRATHCONA PARK",
@@ -1049,7 +1393,11 @@
             "total_fem": 788,
             "total_5_14": 1037,
             "total_15_19": 532,
-            "total": 1569
+            "total": 1569,
+            "location": {
+                "lat": 51.048998,
+                "lng": -114.1740392
+            }
         },
         {
             "name": "CHRISTIE PARK",
@@ -1061,7 +1409,11 @@
             "total_fem": 172,
             "total_5_14": 186,
             "total_15_19": 148,
-            "total": 334
+            "total": 334,
+            "location": {
+                "lat": 51.0396364,
+                "lng": -114.1788312
+            }
         },
         {
             "name": "EAU CLAIRE",
@@ -1073,7 +1425,11 @@
             "total_fem": 19,
             "total_5_14": 25,
             "total_15_19": 12,
-            "total": 37
+            "total": 37,
+            "location": {
+                "lat": 51.0534879,
+                "lng": -114.0744715
+            }
         },
         {
             "name": "MCKENZIE LAKE",
@@ -1085,7 +1441,11 @@
             "total_fem": 1399,
             "total_5_14": 1788,
             "total_15_19": 1261,
-            "total": 3049
+            "total": 3049,
+            "location": {
+                "lat": 50.9151645,
+                "lng": -113.9828345
+            }
         },
         {
             "name": "MAYFAIR",
@@ -1097,7 +1457,11 @@
             "total_fem": 57,
             "total_5_14": 79,
             "total_15_19": 33,
-            "total": 112
+            "total": 112,
+            "location": {
+                "lat": 50.9963361,
+                "lng": -114.0890275
+            }
         },
         {
             "name": "SOUTHWOOD",
@@ -1109,7 +1473,11 @@
             "total_fem": 462,
             "total_5_14": 611,
             "total_15_19": 333,
-            "total": 944
+            "total": 944,
+            "location": {
+                "lat": 50.9545615,
+                "lng": -114.080872
+            }
         },
         {
             "name": "ROSEDALE",
@@ -1121,7 +1489,11 @@
             "total_fem": 140,
             "total_5_14": 180,
             "total_15_19": 95,
-            "total": 275
+            "total": 275,
+            "location": {
+                "lat": 51.06390649999999,
+                "lng": -114.0806525
+            }
         },
         {
             "name": "MISSION",
@@ -1133,7 +1505,11 @@
             "total_fem": 22,
             "total_5_14": 30,
             "total_15_19": 24,
-            "total": 54
+            "total": 54,
+            "location": {
+                "lat": 51.0313814,
+                "lng": -114.0675961
+            }
         },
         {
             "name": "GLENBROOK",
@@ -1145,7 +1521,11 @@
             "total_fem": 562,
             "total_5_14": 818,
             "total_15_19": 326,
-            "total": 1144
+            "total": 1144,
+            "location": {
+                "lat": 51.0266897,
+                "lng": -114.155798
+            }
         },
         {
             "name": "TUXEDO PARK",
@@ -1157,7 +1537,11 @@
             "total_fem": 238,
             "total_5_14": 311,
             "total_15_19": 163,
-            "total": 474
+            "total": 474,
+            "location": {
+                "lat": 51.0733926,
+                "lng": -114.0625777
+            }
         },
         {
             "name": "ST. ANDREWS HEIGHTS",
@@ -1169,7 +1553,11 @@
             "total_fem": 84,
             "total_5_14": 113,
             "total_15_19": 64,
-            "total": 177
+            "total": 177,
+            "location": {
+                "lat": 51.0650117,
+                "lng": -114.1262573
+            }
         },
         {
             "name": "ELBOW PARK",
@@ -1181,7 +1569,11 @@
             "total_fem": 384,
             "total_5_14": 518,
             "total_15_19": 236,
-            "total": 754
+            "total": 754,
+            "location": {
+                "lat": 51.0219902,
+                "lng": -114.0824309
+            }
         },
         {
             "name": "COPPERFIELD",
@@ -1193,7 +1585,11 @@
             "total_fem": 1148,
             "total_5_14": 1866,
             "total_15_19": 511,
-            "total": 2377
+            "total": 2377,
+            "location": {
+                "lat": 50.91243249999999,
+                "lng": -113.9382663
+            }
         },
         {
             "name": "SHAGANAPPI",
@@ -1205,7 +1601,11 @@
             "total_fem": 81,
             "total_5_14": 130,
             "total_15_19": 63,
-            "total": 193
+            "total": 193,
+            "location": {
+                "lat": 51.04560960000001,
+                "lng": -114.1263224
+            }
         },
         {
             "name": "PANORAMA HILLS",
@@ -1217,7 +1617,11 @@
             "total_fem": 2875,
             "total_5_14": 4206,
             "total_15_19": 1679,
-            "total": 5885
+            "total": 5885,
+            "location": {
+                "lat": 51.1594484,
+                "lng": -114.081
+            }
         },
         {
             "name": "DIAMOND COVE",
@@ -1229,7 +1633,11 @@
             "total_fem": 44,
             "total_5_14": 68,
             "total_15_19": 38,
-            "total": 106
+            "total": 106,
+            "location": {
+                "lat": 50.9465757,
+                "lng": -114.0225076
+            }
         },
         {
             "name": "THORNCLIFFE",
@@ -1241,7 +1649,11 @@
             "total_fem": 604,
             "total_5_14": 926,
             "total_15_19": 389,
-            "total": 1315
+            "total": 1315,
+            "location": {
+                "lat": 51.1021067,
+                "lng": -114.0642882
+            }
         },
         {
             "name": "ROCKY RIDGE",
@@ -1253,7 +1665,11 @@
             "total_fem": 809,
             "total_5_14": 1160,
             "total_15_19": 480,
-            "total": 1640
+            "total": 1640,
+            "location": {
+                "lat": 51.1452693,
+                "lng": -114.2469615
+            }
         },
         {
             "name": "FOREST HEIGHTS",
@@ -1265,7 +1681,11 @@
             "total_fem": 593,
             "total_5_14": 820,
             "total_15_19": 405,
-            "total": 1225
+            "total": 1225,
+            "location": {
+                "lat": 51.0392772,
+                "lng": -113.9713861
+            }
         },
         {
             "name": "HAYSBORO",
@@ -1277,7 +1697,11 @@
             "total_fem": 371,
             "total_5_14": 465,
             "total_15_19": 260,
-            "total": 725
+            "total": 725,
+            "location": {
+                "lat": 50.9700093,
+                "lng": -114.086095
+            }
         },
         {
             "name": "DOVER",
@@ -1289,7 +1713,11 @@
             "total_fem": 785,
             "total_5_14": 1102,
             "total_15_19": 508,
-            "total": 1610
+            "total": 1610,
+            "location": {
+                "lat": 51.0251956,
+                "lng": -113.9852513
+            }
         },
         {
             "name": "CRESCENT HEIGHTS",
@@ -1301,7 +1729,11 @@
             "total_fem": 208,
             "total_5_14": 284,
             "total_15_19": 143,
-            "total": 427
+            "total": 427,
+            "location": {
+                "lat": 51.0632835,
+                "lng": -114.0644843
+            }
         },
         {
             "name": "LAKE BONAVISTA",
@@ -1313,7 +1745,11 @@
             "total_fem": 856,
             "total_5_14": 1203,
             "total_15_19": 627,
-            "total": 1830
+            "total": 1830,
+            "location": {
+                "lat": 50.9408588,
+                "lng": -114.0550349
+            }
         },
         {
             "name": "DOUGLASDALE/GLEN",
@@ -1325,7 +1761,11 @@
             "total_fem": 1166,
             "total_5_14": 1471,
             "total_15_19": 887,
-            "total": 2358
+            "total": 2358,
+            "location": {
+                "lat": 50.953624,
+                "lng": -114.0019609
+            }
         },
         {
             "name": "SOMERSET",
@@ -1337,7 +1777,11 @@
             "total_fem": 865,
             "total_5_14": 1171,
             "total_15_19": 609,
-            "total": 1780
+            "total": 1780,
+            "location": {
+                "lat": 50.895794,
+                "lng": -114.0716167
+            }
         },
         {
             "name": "RANCHLANDS",
@@ -1349,7 +1793,11 @@
             "total_fem": 669,
             "total_5_14": 893,
             "total_15_19": 452,
-            "total": 1345
+            "total": 1345,
+            "location": {
+                "lat": 51.119509,
+                "lng": -114.1874363
+            }
         },
         {
             "name": "SANDSTONE VALLEY",
@@ -1361,7 +1809,11 @@
             "total_fem": 488,
             "total_5_14": 598,
             "total_15_19": 356,
-            "total": 954
+            "total": 954,
+            "location": {
+                "lat": 51.1390736,
+                "lng": -114.0981001
+            }
         },
         {
             "name": "HOUNSFIELD HEIGHTS/BRIAR HILL",
@@ -1373,7 +1825,11 @@
             "total_fem": 191,
             "total_5_14": 262,
             "total_15_19": 131,
-            "total": 393
+            "total": 393,
+            "location": {
+                "lat": 51.06364929999999,
+                "lng": -114.1071681
+            }
         },
         {
             "name": "SUNDANCE",
@@ -1385,7 +1841,11 @@
             "total_fem": 993,
             "total_5_14": 1241,
             "total_15_19": 829,
-            "total": 2070
+            "total": 2070,
+            "location": {
+                "lat": 50.8987574,
+                "lng": -114.0454829
+            }
         },
         {
             "name": "SAGE HILL",
@@ -1397,7 +1857,11 @@
             "total_fem": 460,
             "total_5_14": 681,
             "total_15_19": 205,
-            "total": 886
+            "total": 886,
+            "location": {
+                "lat": 51.1759895,
+                "lng": -114.1455641
+            }
         },
         {
             "name": "UNIVERSITY OF CALGARY",
@@ -1409,7 +1873,11 @@
             "total_fem": 530,
             "total_5_14": 2,
             "total_15_19": 917,
-            "total": 919
+            "total": 919,
+            "location": {
+                "lat": 51.0781599,
+                "lng": -114.1358007
+            }
         },
         {
             "name": "UPPER MOUNT ROYAL",
@@ -1421,7 +1889,11 @@
             "total_fem": 197,
             "total_5_14": 272,
             "total_15_19": 175,
-            "total": 447
+            "total": 447,
+            "location": {
+                "lat": 51.0304699,
+                "lng": -114.087956
+            }
         },
         {
             "name": "EDGEMONT",
@@ -1433,7 +1905,11 @@
             "total_fem": 1386,
             "total_5_14": 1832,
             "total_15_19": 1093,
-            "total": 2925
+            "total": 2925,
+            "location": {
+                "lat": 51.1199283,
+                "lng": -114.1475829
+            }
         },
         {
             "name": "KINCORA",
@@ -1445,7 +1921,11 @@
             "total_fem": 655,
             "total_5_14": 1028,
             "total_15_19": 306,
-            "total": 1334
+            "total": 1334,
+            "location": {
+                "lat": 51.1596819,
+                "lng": -114.1310079
+            }
         },
         {
             "name": "APPLEWOOD PARK",
@@ -1457,7 +1937,11 @@
             "total_fem": 620,
             "total_5_14": 848,
             "total_15_19": 455,
-            "total": 1303
+            "total": 1303,
+            "location": {
+                "lat": 51.0445218,
+                "lng": -113.9290811
+            }
         },
         {
             "name": "WESTGATE",
@@ -1469,7 +1953,11 @@
             "total_fem": 225,
             "total_5_14": 344,
             "total_15_19": 136,
-            "total": 480
+            "total": 480,
+            "location": {
+                "lat": 51.0437108,
+                "lng": -114.1602621
+            }
         },
         {
             "name": "ERLTON",
@@ -1481,7 +1969,11 @@
             "total_fem": 33,
             "total_5_14": 41,
             "total_15_19": 23,
-            "total": 64
+            "total": 64,
+            "location": {
+                "lat": 51.0299724,
+                "lng": -114.0585578
+            }
         },
         {
             "name": "MARTINDALE",
@@ -1493,7 +1985,11 @@
             "total_fem": 1623,
             "total_5_14": 2374,
             "total_15_19": 1051,
-            "total": 3425
+            "total": 3425,
+            "location": {
+                "lat": 51.1185378,
+                "lng": -113.9633649
+            }
         },
         {
             "name": "NOLAN HILL",
@@ -1505,7 +2001,11 @@
             "total_fem": 372,
             "total_5_14": 553,
             "total_15_19": 203,
-            "total": 756
+            "total": 756,
+            "location": {
+                "lat": 51.1741413,
+                "lng": -114.1660409
+            }
         },
         {
             "name": "COACH HILL",
@@ -1517,7 +2017,11 @@
             "total_fem": 230,
             "total_5_14": 357,
             "total_15_19": 137,
-            "total": 494
+            "total": 494,
+            "location": {
+                "lat": 51.0559148,
+                "lng": -114.180391
+            }
         },
         {
             "name": "ACADIA",
@@ -1529,7 +2033,11 @@
             "total_fem": 648,
             "total_5_14": 837,
             "total_15_19": 466,
-            "total": 1303
+            "total": 1303,
+            "location": {
+                "lat": 50.9702586,
+                "lng": -114.0596485
+            }
         },
         {
             "name": "COUNTRY HILLS",
@@ -1541,7 +2049,11 @@
             "total_fem": 324,
             "total_5_14": 436,
             "total_15_19": 259,
-            "total": 695
+            "total": 695,
+            "location": {
+                "lat": 51.1455147,
+                "lng": -114.0749562
+            }
         },
         {
             "name": "HAWKWOOD",
@@ -1553,7 +2065,11 @@
             "total_fem": 855,
             "total_5_14": 1053,
             "total_15_19": 695,
-            "total": 1748
+            "total": 1748,
+            "location": {
+                "lat": 51.1323255,
+                "lng": -114.1775422
+            }
         },
         {
             "name": "BONAVISTA DOWNS",
@@ -1565,7 +2081,11 @@
             "total_fem": 46,
             "total_5_14": 81,
             "total_15_19": 30,
-            "total": 111
+            "total": 111,
+            "location": {
+                "lat": 50.9408588,
+                "lng": -114.0550349
+            }
         },
         {
             "name": "VARSITY",
@@ -1577,7 +2097,11 @@
             "total_fem": 829,
             "total_5_14": 1121,
             "total_15_19": 561,
-            "total": 1682
+            "total": 1682,
+            "location": {
+                "lat": 51.0949405,
+                "lng": -114.1603994
+            }
         },
         {
             "name": "COLLINGWOOD",
@@ -1589,7 +2113,11 @@
             "total_fem": 158,
             "total_5_14": 211,
             "total_15_19": 109,
-            "total": 320
+            "total": 320,
+            "location": {
+                "lat": 51.0846832,
+                "lng": -114.0996573
+            }
         },
         {
             "name": "QUEENSLAND",
@@ -1601,7 +2129,11 @@
             "total_fem": 363,
             "total_5_14": 488,
             "total_15_19": 234,
-            "total": 722
+            "total": 722,
+            "location": {
+                "lat": 50.9396012,
+                "lng": -114.022812
+            }
         },
         {
             "name": "WOODLANDS",
@@ -1613,7 +2145,11 @@
             "total_fem": 466,
             "total_5_14": 702,
             "total_15_19": 350,
-            "total": 1052
+            "total": 1052,
+            "location": {
+                "lat": 50.9372425,
+                "lng": -114.1094869
+            }
         },
         {
             "name": "OAKRIDGE",
@@ -1625,7 +2161,11 @@
             "total_fem": 476,
             "total_5_14": 638,
             "total_15_19": 332,
-            "total": 970
+            "total": 970,
+            "location": {
+                "lat": 50.9665054,
+                "lng": -114.1273709
+            }
         },
         {
             "name": "GLAMORGAN",
@@ -1637,7 +2177,11 @@
             "total_fem": 373,
             "total_5_14": 559,
             "total_15_19": 217,
-            "total": 776
+            "total": 776,
+            "location": {
+                "lat": 51.0150962,
+                "lng": -114.151853
+            }
         },
         {
             "name": "ELBOYA",
@@ -1649,7 +2193,11 @@
             "total_fem": 173,
             "total_5_14": 230,
             "total_15_19": 124,
-            "total": 354
+            "total": 354,
+            "location": {
+                "lat": 51.0127634,
+                "lng": -114.0739992
+            }
         },
         {
             "name": "WINDSOR PARK",
@@ -1661,7 +2209,11 @@
             "total_fem": 176,
             "total_5_14": 232,
             "total_15_19": 115,
-            "total": 347
+            "total": 347,
+            "location": {
+                "lat": 51.0057183,
+                "lng": -114.0809141
+            }
         },
         {
             "name": "BOWNESS",
@@ -1673,7 +2225,11 @@
             "total_fem": 608,
             "total_5_14": 862,
             "total_15_19": 417,
-            "total": 1279
+            "total": 1279,
+            "location": {
+                "lat": 51.0899034,
+                "lng": -114.1959889
+            }
         },
         {
             "name": "WHITEHORN",
@@ -1685,7 +2241,11 @@
             "total_fem": 1135,
             "total_5_14": 1518,
             "total_15_19": 758,
-            "total": 2276
+            "total": 2276,
+            "location": {
+                "lat": 51.0889493,
+                "lng": -113.9720765
+            }
         },
         {
             "name": "SHAWNEE SLOPES",
@@ -1697,7 +2257,11 @@
             "total_fem": 97,
             "total_5_14": 110,
             "total_15_19": 85,
-            "total": 195
+            "total": 195,
+            "location": {
+                "lat": 50.9251082,
+                "lng": -114.082846
+            }
         },
         {
             "name": "MARLBOROUGH PARK",
@@ -1709,7 +2273,11 @@
             "total_fem": 784,
             "total_5_14": 1113,
             "total_15_19": 513,
-            "total": 1626
+            "total": 1626,
+            "location": {
+                "lat": 51.0612089,
+                "lng": -113.9468569
+            }
         },
         {
             "name": "MAHOGANY",
@@ -1721,7 +2289,11 @@
             "total_fem": 617,
             "total_5_14": 1052,
             "total_15_19": 224,
-            "total": 1276
+            "total": 1276,
+            "location": {
+                "lat": 50.9001503,
+                "lng": -113.9249151
+            }
         },
         {
             "name": "SPRUCE CLIFF",
@@ -1733,7 +2305,11 @@
             "total_fem": 270,
             "total_5_14": 379,
             "total_15_19": 174,
-            "total": 553
+            "total": 553,
+            "location": {
+                "lat": 51.0494093,
+                "lng": -114.1342633
+            }
         },
         {
             "name": "PARKLAND",
@@ -1745,7 +2321,11 @@
             "total_fem": 310,
             "total_5_14": 432,
             "total_15_19": 212,
-            "total": 644
+            "total": 644,
+            "location": {
+                "lat": 50.9255364,
+                "lng": -114.0366237
+            }
         },
         {
             "name": "CASTLERIDGE",
@@ -1757,7 +2337,11 @@
             "total_fem": 634,
             "total_5_14": 923,
             "total_15_19": 386,
-            "total": 1309
+            "total": 1309,
+            "location": {
+                "lat": 51.10691749999999,
+                "lng": -113.9594776
+            }
         },
         {
             "name": "KINGSLAND",
@@ -1769,7 +2353,11 @@
             "total_fem": 258,
             "total_5_14": 329,
             "total_15_19": 200,
-            "total": 529
+            "total": 529,
+            "location": {
+                "lat": 50.9871451,
+                "lng": -114.0772915
+            }
         },
         {
             "name": "DALHOUSIE",
@@ -1781,7 +2369,11 @@
             "total_fem": 657,
             "total_5_14": 945,
             "total_15_19": 494,
-            "total": 1439
+            "total": 1439,
+            "location": {
+                "lat": 51.108926,
+                "lng": -114.1598321
+            }
         },
         {
             "name": "PALLISER",
@@ -1793,7 +2385,11 @@
             "total_fem": 216,
             "total_5_14": 321,
             "total_15_19": 129,
-            "total": 450
+            "total": 450,
+            "location": {
+                "lat": 51.0443048,
+                "lng": -114.0649776
+            }
         },
         {
             "name": "ALBERT PARK/RADISSON HEIGHTS",
@@ -1805,7 +2401,11 @@
             "total_fem": 461,
             "total_5_14": 694,
             "total_15_19": 311,
-            "total": 1005
+            "total": 1005,
+            "location": {
+                "lat": 51.0437281,
+                "lng": -113.9954485
+            }
         },
         {
             "name": "NORTH GLENMORE PARK",
@@ -1817,7 +2417,11 @@
             "total_fem": 177,
             "total_5_14": 263,
             "total_15_19": 128,
-            "total": 391
+            "total": 391,
+            "location": {
+                "lat": 50.991341,
+                "lng": -114.118069
+            }
         },
         {
             "name": "ALTADORE",
@@ -1829,7 +2433,11 @@
             "total_fem": 483,
             "total_5_14": 725,
             "total_15_19": 254,
-            "total": 979
+            "total": 979,
+            "location": {
+                "lat": 51.016374,
+                "lng": -114.101787
+            }
         },
         {
             "name": "QUEENS PARK VILLAGE",
@@ -1841,7 +2449,11 @@
             "total_fem": 32,
             "total_5_14": 55,
             "total_15_19": 28,
-            "total": 83
+            "total": 83,
+            "location": {
+                "lat": 51.08689280000001,
+                "lng": -114.0731893
+            }
         },
         {
             "name": "ERIN WOODS",
@@ -1853,7 +2465,11 @@
             "total_fem": 712,
             "total_5_14": 1006,
             "total_15_19": 418,
-            "total": 1424
+            "total": 1424,
+            "location": {
+                "lat": 51.0222463,
+                "lng": -113.967013
+            }
         },
         {
             "name": "PINERIDGE",
@@ -1865,7 +2481,11 @@
             "total_fem": 820,
             "total_5_14": 1142,
             "total_15_19": 503,
-            "total": 1645
+            "total": 1645,
+            "location": {
+                "lat": 51.07206859999999,
+                "lng": -113.9478286
+            }
         },
         {
             "name": "RED CARPET",
@@ -1877,7 +2497,11 @@
             "total_fem": 62,
             "total_5_14": 84,
             "total_15_19": 34,
-            "total": 118
+            "total": 118,
+            "location": {
+                "lat": 51.0706351,
+                "lng": -114.1624027
+            }
         },
         {
             "name": "FOREST LAWN",
@@ -1889,7 +2513,11 @@
             "total_fem": 546,
             "total_5_14": 785,
             "total_15_19": 356,
-            "total": 1141
+            "total": 1141,
+            "location": {
+                "lat": 51.0392772,
+                "lng": -113.9713861
+            }
         },
         {
             "name": "WILLOW PARK",
@@ -1901,7 +2529,11 @@
             "total_fem": 373,
             "total_5_14": 510,
             "total_15_19": 286,
-            "total": 796
+            "total": 796,
+            "location": {
+                "lat": 50.954809,
+                "lng": -114.0544374
+            }
         },
         {
             "name": "PARKDALE",
@@ -1913,7 +2545,11 @@
             "total_fem": 116,
             "total_5_14": 167,
             "total_15_19": 72,
-            "total": 239
+            "total": 239,
+            "location": {
+                "lat": 51.0602636,
+                "lng": -114.13529
+            }
         },
         {
             "name": "ROSEMONT",
@@ -1925,7 +2561,11 @@
             "total_fem": 87,
             "total_5_14": 121,
             "total_15_19": 50,
-            "total": 171
+            "total": 171,
+            "location": {
+                "lat": 51.0785697,
+                "lng": -114.0896031
+            }
         },
         {
             "name": "NEW BRIGHTON",
@@ -1937,7 +2577,11 @@
             "total_fem": 1124,
             "total_5_14": 1759,
             "total_15_19": 478,
-            "total": 2237
+            "total": 2237,
+            "location": {
+                "lat": 50.9185472,
+                "lng": -113.9482435
+            }
         },
         {
             "name": "MAYLAND HEIGHTS",
@@ -1949,7 +2593,11 @@
             "total_fem": 329,
             "total_5_14": 470,
             "total_15_19": 227,
-            "total": 697
+            "total": 697,
+            "location": {
+                "lat": 51.0575284,
+                "lng": -114.0146944
+            }
         },
         {
             "name": "SUNALTA",
@@ -1961,7 +2609,11 @@
             "total_fem": 111,
             "total_5_14": 160,
             "total_15_19": 55,
-            "total": 215
+            "total": 215,
+            "location": {
+                "lat": 51.0450597,
+                "lng": -114.1035293
+            }
         },
         {
             "name": "BRIDGELAND/RIVERSIDE",
@@ -1973,7 +2625,11 @@
             "total_fem": 192,
             "total_5_14": 299,
             "total_15_19": 94,
-            "total": 393
+            "total": 393,
+            "location": {
+                "lat": 51.052672,
+                "lng": -114.036979
+            }
         },
         {
             "name": "LAKEVIEW",
@@ -1985,7 +2641,11 @@
             "total_fem": 474,
             "total_5_14": 624,
             "total_15_19": 306,
-            "total": 930
+            "total": 930,
+            "location": {
+                "lat": 50.9944205,
+                "lng": -114.1262246
+            }
         },
         {
             "name": "VISTA HEIGHTS",
@@ -1997,7 +2657,11 @@
             "total_fem": 216,
             "total_5_14": 375,
             "total_15_19": 97,
-            "total": 472
+            "total": 472,
+            "location": {
+                "lat": 51.0746252,
+                "lng": -114.012466
+            }
         },
         {
             "name": "BEDDINGTON HEIGHTS",
@@ -2009,7 +2673,11 @@
             "total_fem": 954,
             "total_5_14": 1336,
             "total_15_19": 602,
-            "total": 1938
+            "total": 1938,
+            "location": {
+                "lat": 51.131457,
+                "lng": -114.0821962
+            }
         },
         {
             "name": "WINSTON HEIGHTS/MOUNTVIEW",
@@ -2021,7 +2689,11 @@
             "total_fem": 179,
             "total_5_14": 258,
             "total_15_19": 111,
-            "total": 369
+            "total": 369,
+            "location": {
+                "lat": 51.0743871,
+                "lng": -114.0389758
+            }
         },
         {
             "name": "LEGACY",
@@ -2033,7 +2705,11 @@
             "total_fem": 199,
             "total_5_14": 310,
             "total_15_19": 113,
-            "total": 423
+            "total": 423,
+            "location": {
+                "lat": 50.8606972,
+                "lng": -114.0174672
+            }
         },
         {
             "name": "ABBEYDALE",
@@ -2045,7 +2721,11 @@
             "total_fem": 539,
             "total_5_14": 767,
             "total_15_19": 359,
-            "total": 1126
+            "total": 1126,
+            "location": {
+                "lat": 51.0598094,
+                "lng": -113.9278024
+            }
         },
         {
             "name": "SETON",
@@ -2057,7 +2737,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 50.87903559999999,
+                "lng": -113.9522338
+            }
         },
         {
             "name": "ROYAL OAK",
@@ -2069,7 +2753,11 @@
             "total_fem": 1309,
             "total_5_14": 1842,
             "total_15_19": 701,
-            "total": 2543
+            "total": 2543,
+            "location": {
+                "lat": 51.1455683,
+                "lng": -114.2203617
+            }
         },
         {
             "name": "CHINOOK PARK",
@@ -2081,7 +2769,11 @@
             "total_fem": 162,
             "total_5_14": 209,
             "total_15_19": 111,
-            "total": 320
+            "total": 320,
+            "location": {
+                "lat": 50.9815974,
+                "lng": -114.0900148
+            }
         },
         {
             "name": "MEADOWLARK PARK",
@@ -2093,7 +2785,11 @@
             "total_fem": 40,
             "total_5_14": 57,
             "total_15_19": 22,
-            "total": 79
+            "total": 79,
+            "location": {
+                "lat": 50.99836310000001,
+                "lng": -114.0797555
+            }
         },
         {
             "name": "RICHMOND",
@@ -2105,7 +2801,11 @@
             "total_fem": 275,
             "total_5_14": 398,
             "total_15_19": 152,
-            "total": 550
+            "total": 550,
+            "location": {
+                "lat": 51.0340771,
+                "lng": -114.1157609
+            }
         },
         {
             "name": "PARKHILL",
@@ -2117,7 +2817,11 @@
             "total_fem": 108,
             "total_5_14": 128,
             "total_15_19": 91,
-            "total": 219
+            "total": 219,
+            "location": {
+                "lat": 51.0178759,
+                "lng": -114.0664294
+            }
         },
         {
             "name": "NORTH HAVEN",
@@ -2129,7 +2833,11 @@
             "total_fem": 173,
             "total_5_14": 253,
             "total_15_19": 108,
-            "total": 361
+            "total": 361,
+            "location": {
+                "lat": 51.0979828,
+                "lng": -114.0895174
+            }
         },
         {
             "name": "ASPEN WOODS",
@@ -2141,7 +2849,11 @@
             "total_fem": 1008,
             "total_5_14": 1561,
             "total_15_19": 523,
-            "total": 2084
+            "total": 2084,
+            "location": {
+                "lat": 51.044849,
+                "lng": -114.1992419
+            }
         },
         {
             "name": "ROXBORO",
@@ -2153,7 +2865,11 @@
             "total_fem": 37,
             "total_5_14": 62,
             "total_15_19": 23,
-            "total": 85
+            "total": 85,
+            "location": {
+                "lat": 51.0260131,
+                "lng": -114.0671845
+            }
         },
         {
             "name": "FALCONRIDGE",
@@ -2165,7 +2881,11 @@
             "total_fem": 1181,
             "total_5_14": 1789,
             "total_15_19": 656,
-            "total": 2445
+            "total": 2445,
+            "location": {
+                "lat": 51.1000332,
+                "lng": -113.946541
+            }
         },
         {
             "name": "EVANSTON",
@@ -2177,7 +2897,11 @@
             "total_fem": 1324,
             "total_5_14": 2140,
             "total_15_19": 605,
-            "total": 2745
+            "total": 2745,
+            "location": {
+                "lat": 51.1734799,
+                "lng": -114.108402
+            }
         },
         {
             "name": "SHAWNESSY",
@@ -2189,7 +2913,11 @@
             "total_fem": 731,
             "total_5_14": 947,
             "total_15_19": 647,
-            "total": 1594
+            "total": 1594,
+            "location": {
+                "lat": 50.90960889999999,
+                "lng": -114.0842303
+            }
         },
         {
             "name": "SPRINGBANK HILL",
@@ -2201,7 +2929,11 @@
             "total_fem": 1148,
             "total_5_14": 1614,
             "total_15_19": 743,
-            "total": 2357
+            "total": 2357,
+            "location": {
+                "lat": 51.02775820000001,
+                "lng": -114.2013866
+            }
         },
         {
             "name": "SHERWOOD",
@@ -2213,7 +2945,11 @@
             "total_fem": 567,
             "total_5_14": 730,
             "total_15_19": 385,
-            "total": 1115
+            "total": 1115,
+            "location": {
+                "lat": 51.15734,
+                "lng": -114.148619
+            }
         },
         {
             "name": "CORAL SPRINGS",
@@ -2225,7 +2961,11 @@
             "total_fem": 475,
             "total_5_14": 654,
             "total_15_19": 418,
-            "total": 1072
+            "total": 1072,
+            "location": {
+                "lat": 51.1048726,
+                "lng": -113.924232
+            }
         },
         {
             "name": "SADDLE RIDGE",
@@ -2237,7 +2977,11 @@
             "total_fem": 2123,
             "total_5_14": 3166,
             "total_15_19": 1233,
-            "total": 4399
+            "total": 4399,
+            "location": {
+                "lat": 51.1326929,
+                "lng": -113.9428229
+            }
         },
         {
             "name": "CRANSTON",
@@ -2249,7 +2993,11 @@
             "total_fem": 1849,
             "total_5_14": 3026,
             "total_15_19": 731,
-            "total": 3757
+            "total": 3757,
+            "location": {
+                "lat": 50.8890954,
+                "lng": -113.9809004
+            }
         },
         {
             "name": "COVENTRY HILLS",
@@ -2261,7 +3009,11 @@
             "total_fem": 1895,
             "total_5_14": 2895,
             "total_15_19": 1088,
-            "total": 3983
+            "total": 3983,
+            "location": {
+                "lat": 51.1659498,
+                "lng": -114.0511987
+            }
         },
         {
             "name": "CARRINGTON",
@@ -2273,7 +3025,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 51.042657,
+                "lng": -114.085086
+            }
         },
         {
             "name": "LIVINGSTON",
@@ -2285,7 +3041,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 51.067844,
+                "lng": -114.01637
+            }
         },
         {
             "name": "SCENIC ACRES",
@@ -2297,7 +3057,11 @@
             "total_fem": 693,
             "total_5_14": 852,
             "total_15_19": 616,
-            "total": 1468
+            "total": 1468,
+            "location": {
+                "lat": 51.117584,
+                "lng": -114.2214552
+            }
         },
         {
             "name": "ARBOUR LAKE",
@@ -2309,7 +3073,11 @@
             "total_fem": 1051,
             "total_5_14": 1278,
             "total_15_19": 885,
-            "total": 2163
+            "total": 2163,
+            "location": {
+                "lat": 51.1333565,
+                "lng": -114.2001695
+            }
         },
         {
             "name": "VALLEY RIDGE",
@@ -2321,7 +3089,11 @@
             "total_fem": 550,
             "total_5_14": 755,
             "total_15_19": 355,
-            "total": 1110
+            "total": 1110,
+            "location": {
+                "lat": 51.0939246,
+                "lng": -114.253356
+            }
         },
         {
             "name": "UNIVERSITY DISTRICT",
@@ -2333,7 +3105,11 @@
             "total_fem": 62,
             "total_5_14": 133,
             "total_15_19": 7,
-            "total": 140
+            "total": 140,
+            "location": {
+                "lat": 51.0794659,
+                "lng": -114.1490406
+            }
         },
         {
             "name": "REDSTONE",
@@ -2345,7 +3121,11 @@
             "total_fem": 199,
             "total_5_14": 329,
             "total_15_19": 111,
-            "total": 440
+            "total": 440,
+            "location": {
+                "lat": 51.1706454,
+                "lng": -113.9595015
+            }
         },
         {
             "name": "SKYVIEW RANCH",
@@ -2357,7 +3137,11 @@
             "total_fem": 730,
             "total_5_14": 1160,
             "total_15_19": 391,
-            "total": 1551
+            "total": 1551,
+            "location": {
+                "lat": 51.1597684,
+                "lng": -113.9585266
+            }
         },
         {
             "name": "GARRISON WOODS",
@@ -2369,7 +3153,11 @@
             "total_fem": 279,
             "total_5_14": 417,
             "total_15_19": 129,
-            "total": 546
+            "total": 546,
+            "location": {
+                "lat": 51.02201650000001,
+                "lng": -114.1162435
+            }
         },
         {
             "name": "CORNERSTONE",
@@ -2381,7 +3169,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 50.950157,
+                "lng": -113.985855
+            }
         },
         {
             "name": "YORKVILLE",
@@ -2393,7 +3185,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 51.0757766,
+                "lng": -113.9925956
+            }
         },
         {
             "name": "SILVERADO",
@@ -2405,7 +3201,11 @@
             "total_fem": 620,
             "total_5_14": 914,
             "total_15_19": 351,
-            "total": 1265
+            "total": 1265,
+            "location": {
+                "lat": 50.8833507,
+                "lng": -114.0780035
+            }
         },
         {
             "name": "BELMONT",
@@ -2417,7 +3217,11 @@
             "total_fem": 0,
             "total_5_14": 0,
             "total_15_19": 0,
-            "total": 0
+            "total": 0,
+            "location": {
+                "lat": 51.0241608,
+                "lng": -114.1074888
+            }
         },
         {
             "name": "HIGHWOOD",
@@ -2429,7 +3233,11 @@
             "total_fem": 183,
             "total_5_14": 244,
             "total_15_19": 113,
-            "total": 357
+            "total": 357,
+            "location": {
+                "lat": 51.0918669,
+                "lng": -114.0794622
+            }
         },
         {
             "name": "EVERGREEN",
@@ -2441,7 +3249,11 @@
             "total_fem": 2326,
             "total_5_14": 3422,
             "total_15_19": 1351,
-            "total": 4773
+            "total": 4773,
+            "location": {
+                "lat": 50.9139578,
+                "lng": -114.1148502
+            }
         },
         {
             "name": "BANFF TRAIL",
@@ -2453,7 +3265,11 @@
             "total_fem": 182,
             "total_5_14": 215,
             "total_15_19": 157,
-            "total": 372
+            "total": 372,
+            "location": {
+                "lat": 51.0760015,
+                "lng": -114.1140169
+            }
         }
     ]
 }
