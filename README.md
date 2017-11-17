@@ -6,13 +6,12 @@
         ```
 - used regex pattern in Atom to remove geo data (TODO: write in regex pattern)
 - ran python script to remove all non-residential entries 
+- ran python script to extract only the necessary data
 
 # What I need to do
 - get maps API ket
-- extract only people data from what I have
 - geocode each community
-- move data from json to csv
-- do some work in excel/openRefine
 - make map
-- figure out other two visualizations
+- make pie chart: fem vs male
+- make pie chart: age distribution
 - write up doc
