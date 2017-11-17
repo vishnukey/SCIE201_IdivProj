@@ -8,9 +8,10 @@
 - ran python script to remove all non-residential entries 
 - ran python script to extract only the necessary data
 - ran python script geocode community names using google maps api
+- built php server to generate map and serve data to map
+- generated map
 
 # What I need to do
-- make map
 - make pie chart: fem vs male
 - make pie chart: age distribution
 - write up doc
