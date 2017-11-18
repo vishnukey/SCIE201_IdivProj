@@ -4,7 +4,7 @@
         ```
         $ cat Census\ By\ Community\ 2016.geojson | python -m json.tool > censusPretty.geojson
         ```
-- used regex pattern in Atom to remove geo data
+- used regex pattern in Atom to remove geo data. The regex used was: 
         ```
         /,\s+"geometry": {\s+"type": "Polygon",\s+"coordinates": [\]|[|\s|0-9|.|,|\s|-]+}/
         ```
